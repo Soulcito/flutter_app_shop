@@ -17,5 +17,6 @@ Este es un proyecto para trabajar con:
 [Teslo Backend - Nest RestServer](https://hub.docker.com/repository/docker/klerith/flutter-backend-teslo-shop/general)
 
 # Importante
-Recuerden leer y seguir la guía para montar el backend localmente.
+- Recuerden leer y seguir la guía para montar el backend localmente.
+- Reenombrar .env.template a .env y colocar ip del backend en vez de localhost.
 
